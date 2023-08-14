@@ -3,7 +3,7 @@
  
  コードをコンパイルします。:
 
- ```$ gcc -Wall -Wextra -Werror -o rush01 check.c rush01.c solve.c```
+ ```$ gcc -Wall -Wextra -Werror -o rush01 *.c```
 
 エグゼキュータの後にパラメータを追加します。:
 
