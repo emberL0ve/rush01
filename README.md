@@ -22,4 +22,8 @@ $ ./rush01.exe "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2 2"
 
 ➥     [rush01/ja.subject.pdf](https://github.com/lazylvr/rush01/blob/main/ja.subject.pdf)
 
-                                                                 ¯\_(ツ)_/¯
+
+ ![Screenshot](https://github.com/emberL0ve/rush01/blob/main/easy.png)
+ ![Screenshot](https://github.com/emberL0ve/rush01/blob/main/100.png)
+ 
+                                                                  ¯\_(ツ)_/¯
